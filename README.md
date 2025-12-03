@@ -23,6 +23,23 @@ Table (1) illustrates the key financial metrics predicted by the ILP model, incl
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3b715b99-ecee-4502-865d-e7cfad2713c7" />
 
+# Deployment
+1: Clone the repository
+```bash
+  git clone https://github.com/MsainZn/InventoryOptimizationCoffeeShopILP.git
+```
+2: install requirements:
+```bash
+  pip install -r requirements.txt 
+```
+
+3: Add the dataset JSON file
+
+4: run the main code file
+```bash
+  run main.py 
+```
+
 # Citation
 If you use this work, please cite:
 ```bash
